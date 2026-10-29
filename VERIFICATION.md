@@ -15,10 +15,12 @@ Verified on 29 October 2026 with Python 3.12 on Windows.
 
 Overall-median and class/sex-median age filling do not produce different under-18 survival rates for this CSV. Both place every filled age in the adult group. They do yield different mean ages by outcome. These actual results are reported explicitly in both the notebook and report.
 
-## Remaining before submission
+## Publication verified
 
-1. Review and understand the AI-assisted implementation, adapt it as needed, and establish whether the course permits this assistance. The brief's independent-authorship requirement has not been certified.
-2. Push both branches to the created public repository, then verify anonymous access.
-3. Finish the remote branch and commit checks before submitting.
+The public repository is https://github.com/Mohammed-MM3/ai-programming-foundations-project.
 
-The public repository has been created at https://github.com/Mohammed-MM3/ai-programming-foundations-project. Upload and anonymous-access checks are pending Git authorization.
+Both `main` and `development` have been pushed. Unauthenticated GitHub API requests confirm public visibility and both branches. The five required files were fetched without credentials from the public raw URLs and matched the delivered copies (text line endings normalized). The PDF includes the real repository URL, and its updated layout was visually inspected.
+
+## Before submission
+
+Review and understand the AI-assisted implementation, adapt it as needed, and establish whether the course permits this assistance. The brief's independent-authorship requirement has not been certified.
