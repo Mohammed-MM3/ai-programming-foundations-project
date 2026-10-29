@@ -1,5 +1,7 @@
 # AI Programming Foundations Project
 
+Repository: https://github.com/Mohammed-MM3/ai-programming-foundations-project
+
 This C2 project uses Python to audit, clean, and explore Titanic passenger records. The notebook includes reusable functions, an age-imputation sensitivity comparison, and three visualizations with saved outputs.
 
 ## Dataset
