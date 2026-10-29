@@ -17,11 +17,12 @@ python -m venv .venv
 .venv\Scripts\python -m pip install -r requirements.txt
 ```
 
-On macOS or Linux, use `.venv/bin/python` in place of `.venv\Scripts\python`. The frozen environment was tested on Windows; Windows-specific dependencies may require adjustment on other platforms.
+`requirements.txt` contains the five imported packages and their runtime dependencies. Notebook editor and kernel tools are installed separately below. On macOS or Linux, use `.venv/bin/python` in place of `.venv\Scripts\python`.
 
 ## How to run
 
 ```powershell
+.venv\Scripts\python -m pip install notebook ipykernel
 .venv\Scripts\python -m notebook data_workflow.ipynb
 ```
 
