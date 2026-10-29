@@ -18,7 +18,7 @@ Overall-median and class/sex-median age filling do not produce different under-1
 ## Remaining before submission
 
 1. Review and understand the AI-assisted implementation, adapt it as needed, and establish whether the course permits this assistance. The brief's independent-authorship requirement has not been certified.
-2. Create or sign into the intended GitHub account. Publish this project as the public repository `ai-programming-foundations-project`, push both branches, and verify access while signed out.
-3. Replace the report's truthful pending-publication statement with the verified repository URL and regenerate the PDF before submitting.
+2. Push both branches to the created public repository, then verify anonymous access.
+3. Finish the remote branch and commit checks before submitting.
 
-No public GitHub repository has been created, and no public URL or anonymous-access check is claimed.
+The public repository has been created at https://github.com/Mohammed-MM3/ai-programming-foundations-project. Upload and anonymous-access checks are pending Git authorization.
